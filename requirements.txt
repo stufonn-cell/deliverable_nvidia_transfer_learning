@@ -1,0 +1,12 @@
+ddgs
+gradio
+keras
+matplotlib
+numpy
+openai
+pillow
+pypdf
+python-dotenv
+requests
+scikit-learn
+tensorflow
